@@ -1,0 +1,1 @@
+[2019-05-31 00:30:34.152] [INFO] admin-log - [32m[/Users/wall/Documents/workspace/pomelo_demo/game-server/node_modules/pomelo/lib/master/master.js] [39m{"action":"execute","moduleId":"__console__","method":"clientHandler","msg":{"signal":"list","clientId":"pomelo_list_1559233834108","username":"admin"}}
